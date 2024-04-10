@@ -1,0 +1,3 @@
+The Sakila database is a sample database used for learning and practicing database concepts, particularly in the context of relational database management systems (RDBMS). 
+It was originally developed by MySQL and serves as a standard example for MySQL tutorials, documentation, and training.
+It represents a fictional DVD rental store, containing tables that store information about films, actors, customers, rentals, payments, and more. It is designed to be realistic and includes various relationships between entities, such as films being rented by customers, actors starring in films, and payments made for rentals.
